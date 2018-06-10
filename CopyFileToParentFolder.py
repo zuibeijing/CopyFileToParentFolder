@@ -1,4 +1,9 @@
-#coding:utf-8
+# #!/usr/bin/python
+# -*- coding: utf-8 -*-
+# @Time    : 2018/6/10 16:29
+# @Author  : Victor (weigang) QIU
+# @web     : http://www.weigang.com
+# @Software: PyCharm
 
 import os
 import sys
